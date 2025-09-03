@@ -1,0 +1,4 @@
+bucket,status,reasons
+example-safe,SAFE,-
+example-risky,PUBLIC,policy allows read to *
+example-public-acl,PUBLIC,acl READ to AllUsers
